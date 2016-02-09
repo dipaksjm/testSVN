@@ -16,8 +16,8 @@ class FirstViewController: UIViewController {
         print("1 - d ")
         print("2 - d")
         print("3 - d ")
-        print("3 - b ")
-
+        print("3 - b")
+        print("4 - d")
 
     }
 
