@@ -13,9 +13,9 @@ class FirstViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        print("dipak...")
-        print("dipak... from bh pc")
-        print("dipak... dipak pc")
+        print("1 - d ")
+        print("2 - d")
+        print("3 - d ")
 
 
     }
