@@ -15,6 +15,9 @@ class FirstViewController: UIViewController {
         print("viewDidLoad...")
 
         // Do any additional setup after loading the view, typically from a nib.
+        
+        print("hi by dpk")
+        
         print("1 - d ")
         print("2 - d")
         print("3 - d ")
