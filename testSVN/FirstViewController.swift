@@ -16,16 +16,16 @@ class FirstViewController: UIViewController {
 
         // Do any additional setup after loading the view, typically from a nib.
         
-        print("hi by dpk")
         
-        print("1 - d ")
-        print("2 - d")
-        print("3 - d ")
-        print("3 - b")
-        print("4 - d")
-
+        
+        func1()
+    }
+    
+    func func1(){
+        // by b pc
     }
 
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
