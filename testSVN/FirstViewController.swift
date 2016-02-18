@@ -22,6 +22,12 @@ class FirstViewController: UIViewController {
         // 1 by bhoomi pc
     }
     
+    func funTest() {
+        print("funTest...")
+        
+    }
+
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
